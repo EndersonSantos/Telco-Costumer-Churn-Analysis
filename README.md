@@ -6,3 +6,6 @@ Some of the question that we would like to answers is:
 
 **Based on historical data can we predict churn?** 
 
+## Prepare 
+The problem that we want to attach is clear so now lets move on for what data do we need in order to solve this problem and also it's obvoius that the we need data related to the customer. Luckly  
+
