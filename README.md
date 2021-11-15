@@ -23,7 +23,7 @@ The data is already cleaned so we not going to do nothing in this matters althou
 The tools that we going to use is Python and its main libraries like:
 - **Pandas: For Exploratory Data Analysis.**<br/>
 - **Dash: For creating a dashboard to show the means findings from the previous step.**<br/>
-- **Jupiter Note Book: For data Handling.**<br/> 
+- **Jupyter Note Book: For data Handling.**<br/> 
 - **Skit-Learn - For training different models and avaluate its performances.** 
 
 ## Analyse 
