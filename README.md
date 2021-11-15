@@ -12,19 +12,19 @@ The problem that we want to attach is clear so now lets move on for what data do
 The data was collected from [IBM Samples Data Sets](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and the last updated was made on 23-02-2018. And, is under the licence guaranteed by kaggle comunity Data files © Original Authors.
 We going to proceed our analysis and training modeling on this data set of course would be better to have on hands a more recent dataset.
 This data contains information about:
-- Customers that left within the last month - *churn*
-- Services that each customer has signed up for – *phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies*
-- Customer account information – *how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges*
-- Demographic info about customers – *gender, age range, and if they have partners and dependents.*
+- Customers that left within the last month - *churn* <br/>
+- Services that each customer has signed up for – *phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies* <br/>
+- Customer account information – *how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges* <br/>
+- Demographic info about customers – *gender, age range, and if they have partners and dependents.* <br/>
 This data will allow us to answer our first question since the last would be a matter of interpretation of the results.
 
 ## Process
 The data is already cleaned so we not going to do nothing in this matters although is probaly one of the most important step. So we going to focus on our exploratory data analysis, vizualizations and training modeling to propel data driven decisions.
 The tools that we going to use is Python and its main libraries like:
-**Pandas: For Exploratory Data Analysis.
-**Dash: For creating a dashboard to show the means findings from the previous step.
-**Jupiter Note Book: For data Handling. 
-**Skit-Learn - For training different models and avaluate its performances. 
+**Pandas: For Exploratory Data Analysis.**<br/>
+**Dash: For creating a dashboard to show the means findings from the previous step.**<br/>
+**Jupiter Note Book: For data Handling.**<br/> 
+**Skit-Learn - For training different models and avaluate its performances.** 
 
 ## Analyse 
 
