@@ -21,10 +21,10 @@ This data contains information about:
 ## Process
 The data is already cleaned so we not going to do nothing in this matters although is probaly one of the most important step. So we going to focus on our exploratory data analysis, vizualizations and training modeling to propel data driven decisions.
 The tools that we going to use is Python and its main libraries like:
-**Pandas: For Exploratory Data Analysis.**<br/>
-**Dash: For creating a dashboard to show the means findings from the previous step.**<br/>
-**Jupiter Note Book: For data Handling.**<br/> 
-**Skit-Learn - For training different models and avaluate its performances.** 
+- **Pandas: For Exploratory Data Analysis.**<br/>
+- **Dash: For creating a dashboard to show the means findings from the previous step.**<br/>
+- **Jupiter Note Book: For data Handling.**<br/> 
+- **Skit-Learn - For training different models and avaluate its performances.** 
 
 ## Analyse 
 
