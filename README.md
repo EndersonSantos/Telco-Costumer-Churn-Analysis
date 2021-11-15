@@ -1,2 +1,2 @@
-# Telco_Costumer_Churn_Predictions
+# Telco Costumer Churn Predictions
 Analysis and Training Modeling 
