@@ -1,6 +1,6 @@
 # Telco Costumer Churn Predictions
 
-## Aski
+## Ask
 Telco Systems is a global leader in telecommunications, with over 40 years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, Telco Systems provides a revolutionary approach to the network edge for service providers, allowing them to offer the highest levels of service innovation to customers. Thus has a lot of available data from your costumers that can be used to answer interesting questions that cand lead to data driving decisions.
 Some of the question that we would like to answers is:
 
@@ -27,4 +27,11 @@ The tools that we going to use is Python and its main libraries like:
 - **Skit-Learn - For training different models and avaluate its performances.** 
 
 ## Analyse 
++ We saw that there's a high correlation between contract type and the number of churn. Most people we contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
++ We saw an decrease of a churn rate as long the tenure rate increase
+
+## Share 
+![telco](https://user-images.githubusercontent.com/90560755/142908206-8c57973a-b4a5-47e9-bcbb-7e4d7b6ec093.jpg)
+![tenure_rate](https://user-images.githubusercontent.com/90560755/142908558-04015f49-6fd8-4fd9-baa0-4705d33d7e76.png)
+![contract](https://user-images.githubusercontent.com/90560755/142908655-2cfb8eee-7e2a-451c-954a-d80a244ce9c5.png)
 
