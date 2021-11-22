@@ -16,7 +16,7 @@ This data contains information about:
 - Services that each customer has signed up for – *phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies* <br/>
 - Customer account information – *how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges* <br/>
 - Demographic info about customers – *gender, age range, and if they have partners and dependents.* <br/>
-<p>This data will allow us to answer our first question since the last would be a matter of interpretation of the results.<p/>
+<p>This data will allow us to answer our questions <p/>
 
 ## Process
 The data is already cleaned so we not going to do nothing in this matters although is probaly one of the most important step. So we going to focus on our exploratory data analysis, vizualizations and training modeling to propel data driven decisions.
