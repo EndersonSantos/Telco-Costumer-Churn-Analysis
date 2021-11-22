@@ -1,8 +1,8 @@
 # Telco Costumer Churn Predictions
 
 ## Ask
-Telco Systems is a global leader in telecommunications, with over 40 years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, Telco Systems provides a revolutionary approach to the network edge for service providers, allowing them to offer the highest levels of service innovation to customers. Thus has a lot of available data from your costumers that can be used to answer interesting questions that cand lead to data driving decisions.
-Some of the question that we would like to answers is:
+Telco Systems is a global leader in telecommunications, with over 40 years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, Telco Systems provides a revolutionary approach to the network edge for service providers, allowing them to offer the highest levels of service innovation to customers. Thus has a lot of available data from your customers that can be used to answer interesting questions that can lead to data driving decisions.
+Some of the questions that we would like to answer is:
 
 **Based on historical data can we predict churn?** <br/>
 **Which kind of retentions programns can we develop focused on diminished the churn rate?**
