@@ -35,3 +35,7 @@ The tools that we going to use is Python and its main libraries like:
 ![tenure_rate](https://user-images.githubusercontent.com/90560755/142908558-04015f49-6fd8-4fd9-baa0-4705d33d7e76.png)
 ![contract](https://user-images.githubusercontent.com/90560755/142908655-2cfb8eee-7e2a-451c-954a-d80a244ce9c5.png)
 
+## Act
++ Reduction bonus after a one year contract or a two year contract where we bring down those charges again to make sure that customer doesn't churn
++ Coupon program after a one year contract or a two year contract
+
