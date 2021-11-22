@@ -8,9 +8,9 @@ Some of the questions that we would like to answer is:
 **Which kind of retentions programns can we develop focused on diminished the churn rate?**
 
 ## Prepare 
-The problem that we want to attach is clear so now lets move on for what data do we need in order to solve this problem. And, it's obvious that we need data related to the customers. Luckly we can find this on Kaggle data sets.
-The data was collected from [IBM Samples Data Sets](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and the last updated was made on 23-02-2018. And, is under the licence guaranteed by kaggle comunity Data files © Original Authors.
-We going to proceed our analysis and training modeling on this data set of course would be better to have on hands a more recent dataset.
+The problem we want to attach is clear, so now let's move on to see what data we need to solve this problem. And it's obvious that we need customer-related data. Fortunately, we can find this in the Kaggle datasets.
+Data were collected from [IBM Samples Data Sets] (https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and the latest update was made on 02/23/2018. And it's under the community-guaranteed kaggle license. Data files © Original Authors.
+We will continue our analysis and training modeling on this dataset, of course it would be better to have a more recent dataset on hand.
 This data contains information about:
 - Customers that left within the last month - *churn* <br/>
 - Services that each customer has signed up for – *phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies* <br/>
@@ -30,6 +30,9 @@ The tools that we going to use is Python and its main libraries like:
 + We saw that there's a high correlation between contract type and the number of churn. Most people we contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
 + We saw an decrease of a churn rate as long the tenure rate increase
 
+We were able to train models that were able to perform relatively well but not as we liked. However, something interesting was the fact that the model corroborates our analysis using the type of contract as the strongest attribute to predict whether or not a customer will churn.
+
+
 ## Share 
 ![telco](https://user-images.githubusercontent.com/90560755/142908206-8c57973a-b4a5-47e9-bcbb-7e4d7b6ec093.jpg)
 ![tenure_rate](https://user-images.githubusercontent.com/90560755/142908558-04015f49-6fd8-4fd9-baa0-4705d33d7e76.png)
@@ -38,4 +41,5 @@ The tools that we going to use is Python and its main libraries like:
 ## Act
 + Reduction bonus after a one year contract or a two year contract where we bring down those charges again to make sure that customer doesn't churn
 + Coupon program after a one year contract or a two year contract
++ Create surveys to understand why the custumer that churn made that decision.
 
