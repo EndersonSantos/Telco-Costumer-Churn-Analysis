@@ -32,7 +32,7 @@ The tools that we going to use is Python and its main libraries like:
 
 ## Share 
 ![Contract](https://user-images.githubusercontent.com/90560755/145054364-97153520-a833-4e7d-8201-d2ae9aa3ad8d.png)
-people who have churn "yes" versus "no" is actually quite similar to month to month versus the longer you stay on, the more charges you're getting for people who have actually churn.
+People who have churn "yes" versus "no" is actually quite similar to month to month versus the longer you stay on, the more charges you're getting for people who have actually churn.
 comparing people that did churn versus people that did not churn, it looks like people who did churn are having overall higher total charges than people that did not churn. And, it's the exact same thing for the two year contract. It's even more extreme of a difference between the distribution of people who had more total charges that did churn versus people that did not churn, had usually lower total charges.
 So essentially after one year or two year contracts, people are more likely to churn if they're having more total charge.
 ![telco](https://user-images.githubusercontent.com/90560755/142908206-8c57973a-b4a5-47e9-bcbb-7e4d7b6ec093.jpg)
