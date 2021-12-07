@@ -4,13 +4,13 @@
 Telco Systems is a global leader in telecommunications, with over 40 years of experience in the design and development of high-performance network communications solutions. With its advanced software and hardware solutions, Telco Systems provides a revolutionary approach to the network edge for service providers, allowing them to offer the highest levels of service innovation to customers. Thus has a lot of available data from your customers that can be used to answer interesting questions that can lead to data driving decisions.
 Some of the questions that we would like to answer is:
 
-**Based on historical data can we predict churn?** <br/>
-**Which kind of retentions programns can we develop focused on diminished the churn rate?**
+**What attributes are more correlated with the churn rate?** <br/>
+**Which kind of retention programs can we develop focused to diminished the churn rate?**
 
 ## Prepare 
-The problem we want to attach is clear, so now let's move on to see what data we need to solve this problem. And it's obvious that we need customer-related data. Fortunately, we can find this in the Kaggle datasets.
-Data were collected from [IBM Samples Data Sets] (https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and the latest update was made on 02/23/2018. And it's under the community-guaranteed kaggle license. Data files © Original Authors.
-We will continue our analysis and training modeling on this dataset, of course it would be better to have a more recent dataset on hand.
+The problem we want to attach is clear, so now let's move on to see what data we need to solve this problem. We need customer-related data. Fortunately, we can find this in the Kaggle datasets.
+The data were collected from [IBM Samples Data Sets] (https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) and the latest update was made on 02/23/2018. And it's under the community-guaranteed kaggle license. Data files © Original Authors.
+We will continue our analysis on this dataset, of course it would be better to have a more recent dataset on hand.
 This data contains information about:
 - Customers that left within the last month - *churn* <br/>
 - Services that each customer has signed up for – *phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies* <br/>
@@ -19,12 +19,10 @@ This data contains information about:
 <p>This data will allow us to answer our questions <p/>
 
 ## Process
-The data is already cleaned so we not going to do nothing in this matters although is probaly one of the most important step. So we going to focus on our exploratory data analysis, vizualizations and training modeling to propel data driven decisions.
+The data is already cleaned so we not going to do anything in this matter although is probably one of the most important steps. So we going to focus on our exploratory data analysis, visualizations to propel data-driven decisions.
 The tools that we going to use is Python and its main libraries like:
 - **Pandas: For Exploratory Data Analysis.**<br/>
-- **Dash: For creating a dashboard to show the means findings from the previous step.**<br/>
 - **Jupyter Note Book: For data Handling.**<br/> 
-- **Skit-Learn - For training different models and avaluate its performances.** 
 
 ## Analyse 
 + We saw that there's a high correlation between contract type and the number of churn. Most people we contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
