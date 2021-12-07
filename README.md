@@ -32,12 +32,20 @@ We were able to train models that were able to perform relatively well but not a
 
 
 ## Share 
+![Contract](https://user-images.githubusercontent.com/90560755/145054364-97153520-a833-4e7d-8201-d2ae9aa3ad8d.png)
+people who have churn "yes" versus "no" is actually quite similar to month to month versus the longer you stay on, the more charges you're getting for people who have actually churn.
+comparing people that did churn versus people that did not churn, it looks like people who did churn are having overall higher total charges than people that did not churn. And, it's the exact same thing for the two year contract. It's even more extreme of a difference between the distribution of people who had more total charges that did churn versus people that did not churn, had usually lower total charges.
+So essentially after one year or two year contracts, people are more likely to churn if they're having more total charge.
 ![telco](https://user-images.githubusercontent.com/90560755/142908206-8c57973a-b4a5-47e9-bcbb-7e4d7b6ec093.jpg)
-![tenure_rate](https://user-images.githubusercontent.com/90560755/142908558-04015f49-6fd8-4fd9-baa0-4705d33d7e76.png)
 ![contract](https://user-images.githubusercontent.com/90560755/142908655-2cfb8eee-7e2a-451c-954a-d80a244ce9c5.png)
+Those customers that indeed churn are most from month to month contracts
+A lot of people tend to turn when their monthly charges are higher.
+A lot of churn for people who have high monthly rates and we're not getting as much total charge from these people, very likely around a month to month contract. Those Month-to-Month contracts could end their tenure early.
+![tenure_rate](https://user-images.githubusercontent.com/90560755/142908558-04015f49-6fd8-4fd9-baa0-4705d33d7e76.png)
+The churn rate decreasing as long as the number of tenures increase
+
 
 ## Act
 + Reduction bonus after a one year contract or a two year contract where we bring down those charges again to make sure that customer doesn't churn
 + Coupon program after a one year contract or a two year contract
 + Create surveys to understand why the custumer that churn made that decision.
-
