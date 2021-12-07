@@ -19,7 +19,7 @@ This data contains information about:
 <p>This data will allow us to answer our questions <p/>
 
 ## Process
-The data is already cleaned so we not going to do anything in this matter although is probably one of the most important steps. So we going to focus on our exploratory data analysis, visualizations to propel data-driven decisions.
+The data is already cleaned so we not going to do anything in this matter although is probably one of the most important steps. So we going to focus on our exploratory data analysis and visualizations to propel data-driven decisions.
 The tools that we going to use is Python and its main libraries like:
 - **Pandas: For Exploratory Data Analysis.**<br/>
 - **Jupyter Note Book: For data Handling.**<br/> 
