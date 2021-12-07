@@ -29,8 +29,6 @@ The tools that we going to use is Python and its main libraries like:
 + We saw that there's a high correlation between contract type and the number of churn. Most people with contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
 + We saw an decrease of a churn rate as long the tenure rate increase
 
-We were able to train models that were able to perform relatively well but not as we liked. However, something interesting was the fact that the model corroborates our analysis using the type of contract as the strongest attribute to predict whether or not a customer will churn.
-
 
 ## Share 
 ![Contract](https://user-images.githubusercontent.com/90560755/145054364-97153520-a833-4e7d-8201-d2ae9aa3ad8d.png)
