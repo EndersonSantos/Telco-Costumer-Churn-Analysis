@@ -26,7 +26,7 @@ The tools that we going to use is Python and its main libraries like:
 - **Jupyter Note Book: For data Handling.**<br/> 
 
 ## Analyse 
-+ We saw that there's a high correlation between contract type and the number of churn. Most people we contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
++ We saw that there's a high correlation between contract type and the number of churn. Most people with contract type of month to month indeed churn and most of people with contracts with one or more years churn way less.
 + We saw an decrease of a churn rate as long the tenure rate increase
 
 We were able to train models that were able to perform relatively well but not as we liked. However, something interesting was the fact that the model corroborates our analysis using the type of contract as the strongest attribute to predict whether or not a customer will churn.
